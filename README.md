@@ -52,7 +52,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 E-commerce website <a name="about-project"></a>
 
-**E-commerce website** is a E-commerce website for a  fictional store called "FLY FASSION"  It's build using React.
+**E-commerce website** is a e-commerce website for a  fictional store called "FLY FASSION"  It's build using React.
 
 ## 🛠 Built With <a name="built-with"></a>
 
