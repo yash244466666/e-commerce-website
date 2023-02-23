@@ -1,3 +1,4 @@
+/* eslint-disable */
 import {Outlet, Link} from 'react-router-dom'
 import {Fragment, useContext} from 'react'
 

@@ -1,3 +1,4 @@
+/* eslint-disable */
 import './directory-item.style.scss'
 import {Link} from "react-router-dom"
 

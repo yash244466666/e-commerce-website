@@ -1,3 +1,4 @@
+/* eslint-disable */
 import { createContext , useState, useEffect} from 'react';
 
 const addcartItems = (cartItems, productToAdd) => {

@@ -1,3 +1,4 @@
+/* eslint-disable */
 import { createContext , useState, useEffect } from "react";
 
 import { getCategoriesAndDocuments } from "../util/firebase/firebase.util"

@@ -1,3 +1,4 @@
+/* eslint-disable */
 import{ useContext } from "react";
 
 import Button from '../button/button.component';

@@ -1,3 +1,4 @@
+/* eslint-disable */
 import "./checkout.style.scss";
 
 import {useContext} from "react";

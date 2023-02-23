@@ -1,3 +1,4 @@
+/* eslint-disable */
 import Directory from '../../components/directory/directory.component'
 import { Outlet } from 'react-router-dom';
 

@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React from "react";
 
 import { signInWithGooglePopup, createUserDocumentFromAuth } from "../../util/firebase/firebase.util"

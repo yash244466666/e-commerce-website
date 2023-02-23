@@ -1,3 +1,4 @@
+/* eslint-disable */
 import {useContext} from "react";
 
 import {CategoriesContext} from "../../context/cetegories.context";

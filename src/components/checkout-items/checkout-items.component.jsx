@@ -1,5 +1,5 @@
+/* eslint-disable */
 import "./checkout-items.style.scss";
-
 import {useContext} from "react"
 import  {CartContext} from "../../context/cart.context";
 

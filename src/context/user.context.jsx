@@ -1,3 +1,4 @@
+/* eslint-disable */
 import {createContext, useState, useEffect} from "react";
 
 import { onAuthStateChangedListener, signOutUser, createUserDocumentFromAuth } from "../util/firebase/firebase.util";

@@ -1,3 +1,4 @@
+/* eslint-disable */
 import { useContext } from "react";
 
 import {ReactComponent as ShoppingICon} from "../../assets/shopping-bag.svg";

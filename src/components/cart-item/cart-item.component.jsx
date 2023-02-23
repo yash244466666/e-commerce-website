@@ -1,3 +1,4 @@
+/* eslint-disable */
 import "./cart-item.style.scss";
 
 

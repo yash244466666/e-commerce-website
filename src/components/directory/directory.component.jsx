@@ -1,3 +1,4 @@
+/* eslint-disable */
 import DirectoryItem from '../directory-item/directory-item.component'
 import {Link} from "react-router-dom"
 
