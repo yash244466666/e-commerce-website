@@ -20,7 +20,7 @@ REQUIRED SECTIONS:
 - Acknowledgements
 - License
 
-After you're finished please remove all the comments and instructions!
+After you're finished, please remove all the comments and instructions!
 -->
 
 <div align="center">
@@ -177,7 +177,7 @@ Give a ⭐️ if you like this project!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse and all my colleagues who have helped me making this project.
+I would like to thank Microverse and all my colleagues who have helped me make this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
