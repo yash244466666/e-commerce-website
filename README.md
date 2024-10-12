@@ -134,7 +134,7 @@ To run tests, run the following command:
 - GitHub: [Yash](https://github.com/yash244466666)
 - LinkedIn: [Yash Solo](https://www.linkedin.com/in/yash-solo)
 - Twitter: [Yash Solo](https://twitter.com/yash_solo000)
-- Email: hello@yashcodes.com
+- Email: info@yashcodes.com
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
